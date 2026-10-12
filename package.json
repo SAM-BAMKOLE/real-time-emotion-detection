@@ -12,6 +12,7 @@
     "vite": "^8.3.0"
   },
   "dependencies": {
-    "@vladmandic/face-api": "^1.7.15"
+    "@vladmandic/face-api": "^1.7.15",
+    "onnxruntime-web": "^1.30.0"
   }
 }
